@@ -1,3 +1,9 @@
 class Owner
-  # code goes here
+  OWNER =[]
+  
+ def initialize (species)
+   
+   
+   
+  
 end
